@@ -1,5 +1,5 @@
 {
-  "name": "monks-enhanced-journal",
+  "name": "monks-enhanced-journal-pt",
   "title": "Monk's Enhanced Journal-pt",
   "description": "Treat the journal like it's going to be popped out and used as a digital guide book.  Add extra information to summarize an encounter.  Show summaries of people and places.  Allow for bookmarking of commonly used pages",
 	"version": "1.0.65",
@@ -72,9 +72,9 @@
 		"css/editor.css", 
 		"css/slide-transition.css" ],
   "packs": [],
-  "url": "https://github.com/ironmonk88/monks-enhanced-journal",
-  "download": "https://github.com/ironmonk88/monks-enhanced-journal/archive/1.0.65.zip",
-  "manifest": "https://github.com/ironmonk88/monks-enhanced-journal/releases/latest/download/module.json",
+  "url": "https://github.com/Lannder13/monks-enhanced-journal",
+  "download": "https://github.com/Lannder13/monks-enhanced-journal/archive/1.0.65.zip",
+  "manifest": "https://github.com/Lannder13/monks-enhanced-journal/releases/latest/download/module.json",
   "bugs": "https://github.com/ironmonk88/monks-enhanced-journal/issues",
   "allowBugReporter": true
 }
