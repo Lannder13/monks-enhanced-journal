@@ -73,7 +73,7 @@
 		"css/slide-transition.css" ],
   "packs": [],
   "url": "https://github.com/Lannder13/monks-enhanced-journal",
-  "download": "https://github.com/Lannder13/monks-enhanced-journal/archive/1.0.65.zip",
+  "download": "https://github.com/Lannder13/monks-enhanced-journal/blob/main/monks-enhanced-journal-1.0.65.zip?raw=true",
   "manifest": "https://github.com/ironmonk88/monks-enhanced-journal/releases/latest/download/module.json",
   "bugs": "https://github.com/ironmonk88/monks-enhanced-journal/issues",
   "allowBugReporter": true
