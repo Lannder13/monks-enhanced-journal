@@ -1,4 +1,4 @@
-{ 
+{
   "MonksEnhancedJournal.Title": "Monk's Enhanced Journal",
   "MonksEnhancedJournal.BackTooltip": "",
   "MonksEnhancedJournal.ForwardTooltip": "",
@@ -11,7 +11,7 @@
   "MonksEnhancedJournal.show-objectives.name": "Mostrar missões",
   "MonksEnhancedJournal.show-objectives.hint": "Mostrar as missões atuais quando a ferramenta de notas estiver ativa",
   "MonksEnhancedJournal.use-runes.name": "Estado padrão das Runas",
-  "MonksEnhancedJournal.use-runes.hint": "Se usaestiver usando o Polyglot, defina o padrão das Runas para ser usado nos Registros do Diário",
+  "MonksEnhancedJournal.use-runes.hint": "Se estiver usando o Polyglot, defina o padrão das Runas para ser usado nos Registros do Diário",
   "MonksEnhancedJournal.show-permissions.name": "Mostrar permissões do jogador",
   "MonksEnhancedJournal.show-permissions.hint": "Mostrar permissões do jogador nos Registros do Diário",
   "MonksEnhancedJournal.start-collapsed.name": "Comece recolhido",
@@ -385,6 +385,7 @@
   "MonksEnhancedJournal.HideShowOffering": "Ocultar/Mostrar Proposta",
   "MonksEnhancedJournal.Selected": "Selecionado",
   "MonksEnhancedJournal.QuantityOfItems": "Quantidade de itens",
+
   "MonksEnhancedJournal.msg.NoPlayersSelected": "Nenhum jogador selecionado para enviar esta Resgistro",
   "MonksEnhancedJournal.msg.CannotAddItemType": "Não é possível adicionar item deste tipo",
   "MonksEnhancedJournal.msg.YouDontHaveTokenPermissions": "Você não tem permissão para criar um novo Token para o ator {actorname}.",
